@@ -1,2 +1,2 @@
 # apancollege-demo
-this is my first time use
+this is my first Git Repositiory
