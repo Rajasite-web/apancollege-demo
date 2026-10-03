@@ -1,3 +1,4 @@
 # apancollege-demo
-this is my first Git Repositiory
-auther - Raja kumar
+This is my first Git Repositiory
+<br>
+Auther - Raja kumar
